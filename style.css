@@ -1,0 +1,216 @@
+.container{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: auto;
+    height: 100vh;
+    overflow-y:hidden;
+    background-color: white;
+    padding-left: 300px;
+    padding-right: 300px;
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;       
+}
+
+.technology{
+font-family: jost,sans-serif;
+color: #cf2e47;
+}
+.all-div{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.nav{ 
+    width: 500px;
+    padding: 50px;
+    border-right: 1px solid #F2D8D8;
+   
+} 
+
+.chackout-stage{
+    padding-bottom: 45px;
+}
+.chackout{
+    font-size: 48px;
+    font-family:Jost,sans-serif;
+
+}
+.stage{
+    display: block;
+    padding-top:6px;
+    color: #dbbdbd;
+    font-family: Iceberg, sans-serif;
+}
+
+.Payment-method{
+    padding-top: 10px;
+    line-height: 20px;
+}
+.method{
+display: inline;
+}
+
+h3{
+    font-family: Jost,sans-serif;
+}
+.bkash{
+    width: 90px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #F2D8D8;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.nogod{
+    width: 90px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #F2D8D8;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.Payment{
+    width: 90px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #F2D8D8;
+    border-radius: 3px;
+    cursor: pointer;
+    
+}
+.svg-payment{
+color: #C63C51;
+}
+.bkash-nogod-payment{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+input{
+    width: 320px;
+    height: 20px;
+    padding: 10px;
+    outline: none;
+    font-weight: 500;
+    border-radius: 5px;
+    border-color: #F2D8D8;
+    font-family: Jost,sans-serif;
+
+}
+.input-name-email-number-contact{
+    padding-top: 10px;
+}
+.input-name-email-number{
+
+    font-family: Jost,sans-serif;
+}
+.border{
+    border: 1px solid #F2D8D8;
+}
+
+.input-name{
+    padding-bottom: 20px;
+    
+}
+.input-email{
+padding-bottom: 20px;
+}
+
+.input-number{
+padding-bottom: 20px;
+}
+
+
+label{
+    display: block;
+    padding-bottom: 6px;
+}
+
+.header-date-line{  
+    padding: 50px;
+   border-radius: 5px;
+   border: 1px solid #F2D8D8;
+   font-family: jost,sans-serif;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   gap: 60px;
+
+
+}
+
+
+.date-line{
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 320px;
+      border-bottom: 1px solid #F2D8D8;
+      padding-bottom: 5px;
+
+          
+}
+
+
+.location-line{
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 320px;
+      border-bottom: 1px solid #F2D8D8;
+      padding-bottom:5px;  
+      
+}
+.time-line{
+    display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 320px;
+      border-bottom: 1px solid #F2D8D8;
+      padding-bottom: 5px;
+      
+    
+}
+
+.event{
+    font-family: jost,sans-serif;
+}
+
+input.pay{
+    height: 45px;
+    width: 425px;
+    border: 1px solid #F2D8D8;
+     margin-top: 80px;
+    
+}
+.pay{
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.secend{
+    border: 1px solid #F2D8D8;
+    padding: 35px;
+    border-radius: 5px;
+    
+    
+}
+
