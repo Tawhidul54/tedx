@@ -39,7 +39,7 @@ color: #cf2e47;
 }
 .chackout{
     font-size: 48px;
-    font-family:Jost,sans-serif;
+
 
 }
 .stage{
@@ -55,41 +55,40 @@ color: #cf2e47;
 }
 .method{
 display: inline;
+font-weight: 700;
 }
 
-h3{
-    font-family: Jost,sans-serif;
-}
+
 .bkash{
-    width: 90px;
-    height: 35px;
+    width: 100px;
+    height: 38px;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid #F2D8D8;
-    border-radius: 3px;
+    border-radius: 4px;
     cursor: pointer;
 }
 
 .nogod{
-    width: 90px;
-    height: 35px;
+    width: 100px;
+    height: 38px;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid #F2D8D8;
-    border-radius: 3px;
+    border-radius: 4px;
     cursor: pointer;
 }
 
 .Payment{
-    width: 90px;
-    height: 35px;
+    width: 100px;
+    height: 38px;
     display: flex;
     align-items: center;
     justify-content: center;
     border: 1px solid #F2D8D8;
-    border-radius: 3px;
+    border-radius: 4px;
     cursor: pointer;
     
 }
@@ -99,7 +98,7 @@ color: #C63C51;
 .bkash-nogod-payment{
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 17px;
 }
 
 input{
@@ -115,6 +114,7 @@ input{
 }
 .input-name-email-number-contact{
     padding-top: 10px;
+    font-weight: 700;
 }
 .input-name-email-number{
 
