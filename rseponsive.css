@@ -1,6 +1,13 @@
-@media screen and (max-width:320px){
-    .all-div{
-        display: flex;
-        flex-direction: column;
+@media screen and (min-width:1440px){
+   .container{
+    padding-left: none;
+    padding-right: none;
+   }
+}
+
+@media screen and (max) {
+    .secend{
+
     }
+    
 }
